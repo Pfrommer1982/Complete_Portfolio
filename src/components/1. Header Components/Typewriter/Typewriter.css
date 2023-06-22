@@ -1,0 +1,32 @@
+@import url('../../../assets/css/main.css');
+
+
+.section.aboutme p {
+  color: var(--accent-color);
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 10px;
+ 
+}
+
+.blinking-cursor {
+  display: inline-block;
+  vertical-align: bottom;
+  width: 0.2em;
+  height: 1.2em;
+  margin-left: 0.1em;
+  background-color: var(--highlight-color);
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}

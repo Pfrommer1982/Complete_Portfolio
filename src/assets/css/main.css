@@ -1,0 +1,83 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Oswald:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Alex+Brush&family=Oswald:wght@200&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200&display=swap');
+
+:root {
+  --light-white: #f2fbfc ;
+  --light-color: #ffffff;
+  --medium-color: #B9BAB3;
+  --dark-color: #001F26;
+  --highlight-color: #cfe5eb;
+  --accent-color: #6d8a92;
+
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+ 
+}
+
+body {
+  
+  letter-spacing: 0.2em;
+  font-weight: normal;
+  font-style: normal;
+  overflow-x: hidden;
+  
+}
+
+h1, h2, h3 {
+  font-family: 'Alex Brush', sans-serif;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+}
+
+/* h2  {
+  font-family: 'Roboto', sans-serif;
+} */
+
+h3 {
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .container {
+    width: 450px;
+  }
+}
+
+.section {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+}
+
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}

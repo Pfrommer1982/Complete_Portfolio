@@ -1,0 +1,64 @@
+@import url('../../../assets/css/main.css');
+
+.our-achievement {
+    background-color: var(--dark-color);
+    text-align: center;
+    padding: 130px 0;
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px) {
+    .our-achievement {
+      padding: 80px 0;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .our-achievement {
+      padding: 60px 0;
+    }
+  }
+  
+  .our-achievement .title h2 {
+    color: var(--light-color);
+    font-weight: 700;
+    font-size: 35px;
+    margin-bottom: 10px;
+  }
+  
+  .our-achievement .title p {
+    color: var(--light-color);
+  }
+  
+  .our-achievement .single-achievement {
+    margin-top: 50px;
+    text-align: center;
+    padding: 0px 10px;
+  }
+  
+  .our-achievement .single-achievement h3 {
+    font-size: 35px;
+    font-weight: 800;
+    display: block;
+    margin-bottom: 5px;
+    color: var(--highlight-color);
+  }
+  
+  .our-achievement .single-achievement p {
+    font-size: 15px;
+    color: var(--light-color);
+    font-weight: 500;
+    text-transform: capitalize;
+  }
+  
+  @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
+    .our-achievement .title h2 {
+      font-size: 24px;
+      line-height: 32px;
+    }
+    .our-achievement .single-achievement {
+      margin-top: 30px;
+    }
+    .our-achievement .single-achievement h3 {
+      font-size: 28px;
+    }
+  }

@@ -1,0 +1,60 @@
+@import url('../../../assets/css/main.css');
+
+.skills {
+  background-color: var(--medium-color);
+}
+
+.skills .section-title {
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.skills .section-title h3 {
+  font-size: 3em;
+}
+
+.skills .single-feature {
+  text-align: center; /* Change to center alignment */
+  padding: 35px;
+  background-color: var(--light-color);
+  border-radius: 6px;
+  position: relative;
+  margin-top: 30px;
+  border: 1px solid var(--medium-color);
+  transition: all 0.5s cubic-bezier(0.68, -0.55, 0.27, 1.55) 0s;
+  box-shadow: 0px 4px 6px var(--medium-color);
+}
+
+.skills .single-feature:hover {
+  box-shadow: 0px 3px 5px var(--medium-color);
+  transform: translateY(-5px);
+}
+
+.skills .single-feature i {
+  height: 60px;
+  width: 60px;
+  line-height: 60px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: middle;
+  background-color: var(--accent-color);
+  color: var(--light-color);
+  font-size: 20px;
+  border-radius: 7px;
+  box-shadow: 0px 4px 6px var(--medium-color);
+  
+  margin: 0px 5px 30px 5px;
+}
+
+.skills .single-feature h3 {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.skills .single-feature p {
+  line-height: 22px;
+}
+
+
+  
