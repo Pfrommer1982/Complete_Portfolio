@@ -31,7 +31,7 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 1. Update your information:
 
 - Open 'src/your_info.jsx'.
-- Customize the variables and content to reflect your own information.
+- Customize the variables and content to reflect your own information. (there are extra instructions in the file)
 - Save the file.
 
 2. Customize colors:
