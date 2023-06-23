@@ -15,4 +15,3 @@ Welcome to Project Name! This project provides a customizable template for creat
 
    ```shell
    git clone https://github.com/Pfrommer1982/Complete_Portfolio
-```
