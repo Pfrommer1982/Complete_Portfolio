@@ -13,15 +13,15 @@ Welcome to Project Name! This project provides a customizable template for creat
 
 1. Clone the repository:
 
-   ```shell   git clone https://github.com/Pfrommer1982/Complete_Portfolio
+   ```shell   git clone https://github.com/Pfrommer1982/Complete_Portfolio ```
 
 2. Navigate to the project directory:
 
-   ```shell   cd Complete_Portfolio
+   ```shell   cd Complete_Portfolio ```
 
 3. Install dependencies:
 
-   ```shell   npm install
+   ```shell   npm install ```
 
 
 ## Usage
