@@ -1,4 +1,4 @@
-                                        *** Complete React Vite Portfolio Template ***
+  *** Complete React Vite Portfolio Template ***
 
 Welcome to Complete Portfolio! This project provides a customizable template for creating amazing web applications.
 
