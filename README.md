@@ -1,6 +1,6 @@
                                         *** Complete React Vite Portfolio Template ***
 
-Welcome to Project Name! This project provides a customizable template for creating amazing web applications.
+Welcome to Complete Portfolio! This project provides a customizable template for creating amazing web applications.
 
 ## Features
 
@@ -26,7 +26,6 @@ Welcome to Project Name! This project provides a customizable template for creat
    ```shell
    npm install 
 
-
 ## Usage
 
 1. Update your information:
@@ -46,4 +45,19 @@ Welcome to Project Name! This project provides a customizable template for creat
 ```shell npm start```
 
 4. Access the application at http://localhost:3000.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
+
+## License
+This project is licensed under the MIT License.
+
+
+
+
+
+
+
+
+
 
