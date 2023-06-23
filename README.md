@@ -55,7 +55,7 @@ This project is licensed under the MIT License.
 
 
 ## Examples:
-# Photographer Portfolio Example
+### Photographer Portfolio Example
 ![Photographer Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/3d21a27c-472d-4b3a-9a48-1a748b209c26)
 
 
