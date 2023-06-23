@@ -41,8 +41,8 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 - Save the file.
   
 3. Start the development server:
-
-```shell npm start```
+   ```shell
+   npm start
 
 4. Access the application at http://localhost:3000.
 
