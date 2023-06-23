@@ -8,7 +8,7 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 - Color customization: Modify the :root colors in 'src/assets/css/main.css' to easily change the color scheme.
 - Integration with emailjs: The project utilizes emailjs for seamless email functionality. (contact form)
 - Open-source and free to use: Feel free to use this template for your personal or commercial projects.
-- If you use this template and created something awesome, let me know! **I love to see your creativity!**
+- If you use this template and created something awesome, let me know! *I love to see your creativity!*
 
 ## Installation
 
