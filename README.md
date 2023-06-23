@@ -18,11 +18,13 @@ Welcome to Project Name! This project provides a customizable template for creat
 
 2. Navigate to the project directory:
 
-   ```cd Complete_Portfolio
+   ```shell
+   cd Complete_Portfolio
 
 3. Install dependencies:
 
-   ```npm install
+   ```shell
+   npm install
 
 
 ## Usage
@@ -41,7 +43,7 @@ Welcome to Project Name! This project provides a customizable template for creat
   
 3. Start the development server:
 
-```
+```shell
 npm start
 
 4. Access the application at http://localhost:3000.
