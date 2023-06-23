@@ -44,7 +44,8 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 
 3. Examples:
 
-![Photographer](https://api.apify.com/v2/key-value-stores/Vlsr7Q6LWW3xpqSoX/records/pfrommer1982.github.io-scroll_original)
+![Screen Recording 2023-06-23 at 11 10 56](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/3d21a27c-472d-4b3a-9a48-1a748b209c26)
+
 
 
 3. Start the development server:
