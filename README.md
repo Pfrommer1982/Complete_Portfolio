@@ -41,13 +41,6 @@ Welcome to Complete Portfolio! This project provides a customizable template for
 - Modify the root colors according to your preference.
 - Save the file.
 
-
-3. Examples:
-
-![Screen Recording 2023-06-23 at 11 10 56](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/3d21a27c-472d-4b3a-9a48-1a748b209c26)
-
-
-
 3. Start the development server:
    ```shell
    npm run dev
@@ -61,7 +54,9 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 This project is licensed under the MIT License.
 
 
+## Examples:
 
+![Photographer Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/3d21a27c-472d-4b3a-9a48-1a748b209c26)
 
 
 
