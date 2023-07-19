@@ -2,22 +2,20 @@
 
 // your_info.jsx
 
-const backgroundImageUrl = 'https://images.wallpaperscraft.com/image/single/man_photographer_roof_146991_3840x2400.jpg';
+const backgroundImageUrl = 'https://assets-global.website-files.com/6009ec8cda7f305645c9d91b/602f2052692cf988e4c783b6_601dce183e0010a314b36a0a_how-to-make-an-online-portfolio.jpeg';
 
 
 // Enter here your first and last name
 const name = {
-  firstname: 'Jonathan',
-  lastname: 'Dominion',
+  firstname: 'Cate',
+  lastname: 'Allen',
 // Enter as url a link where your resume can be downloaded ( dropbox, OneDrive, ect )
-  url: 'https://www.google.com',
+  url: 'https://docs.google.com/document/d/1SFw5ba34mGjVGe6KhE3KsPZe-Cdx0vng/edit?usp=sharing&ouid=105471999392665827632&rtpof=true&sd=true',
 };
 
 // Display your job title or skills or whatever you want in the typewriter
 const typeWriterText = [
-  'Photographer...',
-  'UX/UI designer...',
-  'Cool dude...'  
+  'Developer',  
 ];
 
 // Social media profiles buttons
@@ -25,24 +23,13 @@ const socialProfiles = [
   {
     name: 'LinkedIn',
     icon: 'lni lni-linkedin',
-    url: 'https://www.linkedin.com/in/christoph-pfrommer',
+    url: 'https://www.linkedin.com/in/cate-m-allen',
   },
   {
     name: 'GitHub',
     icon: 'lni lni-github',
-    url: 'https://github.com/Pfrommer1982',
-  },
-  //   Add more social profiles here, it will automatically add more link-buttons with icons (if available)
-  //   {
-  //     name: 'Twitter',
-  //     icon: 'lni lni-twitter',
-  //     url: 'https://twitter.com/your-username',
-  //   },
-  //   {
-  //     name: 'Facebook',
-  //     icon: 'lni lni-facebook',
-  //     url: 'https://facebook.com/your-username',
-  //   },
+    url: 'https://github.com/cateallen',
+  }
 ];
 
 //////////////////////////////////////// ** CONTENT SECTION **//////////////////////////////////////////////////
@@ -50,103 +37,29 @@ const socialProfiles = [
 
 const categories = [
   {
-    name: 'Web Development',
+    name: 'Developer Portfolio Projects',
     icon: 'lni lni-code',
-    title: 'Photography',
+    title: 'Developer Portfolio Projects',
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
+      "To be added to..... ",
     skills: [
       {
         icon: 'lni lni-camera',
-        title: 'HTML5',
+        title: 'Robotic Process Automation',
       },
       {
         icon: 'lni lni-certificate',
-        title: 'CSS3',
+        title: 'Desktop Apps',
       },
       {
         icon: 'lni lni-instagram',
-        title: 'JavaScript',
+        title: 'Angular',
       },
-    ],
-  },
-  {
-    name: 'Software',
-    icon: 'lni lni-code',
-    title: 'Software',
-    description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
-    skills: [
-      {
-        icon: 'lni lni-adobe',
-        title: 'adobe',
-      },
-      {
-        icon: 'lni lni-code',
-        title: 'Code',
-      },
-      {
-        icon: 'lni lni-sketch',
-        title: 'Sketch'
-      },
-     
+    ]
+  }
       
-    ],
-  },
-  {
-    name: 'brands',
-    icon: 'lni lni-code',
-    title: 'Brands',
-    description:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.",
-    skills: [
-      {
-        icon: 'lni lni-pinterest',
-        title: 'Pinterest',
-      },
-      {
-        icon: 'lni lni-crop',
-        title: 'Crop',
-      },
-      
-    ],
-  },
-  
-];
+    ]
 
-// Here you can give in your achiements in a number counter animation
-const achievements = [
-  { word: 'bullshit', value: 100, unit: '%' },
-  { word: 'finished projects', value: 7500, unit: '' },
-  { word: 'experience', value: 20, unit: ' years' },
-];
-
-
-
-// If you already have some projects, fill the url 
-const projectData = [
-  {
-    title: 'Project 1',
-    description: 'Description of Project 1',
-    demoUrl: 'https://wallpaperaccess.com/full/530366.jpg' 
-  },
-  {
-    title: 'Project 2',
-    description: 'Description of Project 2',
-    demoUrl: 'https://wallpapercave.com/wp/wp1933134.jpg' 
-  },
-  {
-    title: 'Project 3',
-    description: 'Description of Project 3',
-    demoUrl: 'https://c4.wallpaperflare.com/wallpaper/43/399/700/photography-camera-birds-animals-wallpaper-preview.jpg' 
-  },
-  {
-    title: 'Project 2',
-    description: 'Description of Project 2',
-    demoUrl: 'src/assets/images/Jonathan Dominion Template.gif' 
-  },
-  
-];
 
 
 //////////////////////////////////////// ** FOOTER SECTION **//////////////////////////////////////////////////
@@ -155,9 +68,9 @@ const projectData = [
 
 // You can tell something about yourself in the infotext.
 const aboutMeText = {
-  infotext: `Hi there, I'm Jonathan. With 20 years of experience as photographer Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas diam lorem, tempus at dapibus vitae, vehicula sit amet dui. Fusce at libero id massa ornare molestie sed eu tellus.
+  infotext: `Hi there! I'm Cate, I am a developer and starting to create my personal Projects Portfolio'
     `,
-  power_slogan: `Lorem ipsum dolor sit amet`,
+  power_slogan: ``,
 };
 
 // For contact form: You need to make an account on emailjs.com
@@ -165,11 +78,6 @@ const aboutMeText = {
 // In your account settings you can see 'serviceID, templateID and userID. 
 // Fill them here and it will automatically work. 
 
-const emailConfig = {
-  serviceID: 'service_XXXXXXX',
-  templateID: 'template_XXXXXXXX',
-  userID: 'XXXXXXXXXXXX',
-};
 
 export {
   backgroundImageUrl,
@@ -177,8 +85,5 @@ export {
   typeWriterText,
   socialProfiles,
   categories,
-  achievements,
-  projectData,
   aboutMeText,
-  emailConfig,
 };
