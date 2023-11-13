@@ -61,31 +61,7 @@ This project is licensed under the MIT License.
 ### Food / Health Blogger Example
 ![Food Blogger Example](https://github.com/Pfrommer1982/Complete_Portfolio/assets/90003610/c732e0a2-19f9-4400-adf9-bfe588d6a2fe)
 
-## Tags:
-- Template
-- React
-- react.js
-- vite
-- create-react-app
-- next.js
-- portfolio
-- website
-- easy
-- html
-- css
-- javascript
-- tailwind
-- bootstrap
-- complete react portfolio template
-- web developer
-- web development
-- customizable
-- resume
-- self promotion
-- portfolio theme
-- portfolio layout
-- portfolio design
-- portfolio framework
+
 
 
 
